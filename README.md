@@ -1,5 +1,5 @@
 # credit_limit
-Script para clonar el repositorio Sale Exception Credit Limit y sus dependencias sale_exception y base_exception
+_Script para clonar el repositorio Sale Exception Credit Limit y sus dependencias sale_exception y base_exception_
 
 El clone del modulo Sale Exception Credit Limit se realiza sobre la branch 13.0 ya que el repositorio no posee la version 14.0.
 
