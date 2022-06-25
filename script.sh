@@ -6,4 +6,4 @@ git clone -b 14.0 --depth 1 https://github.com/OCA/sale-workflow.git sale_workfl
 
 git clone -b 14.0 --depth 1 https://github.com/OCA/server-tools.git server_tools
 
-rm script.sh README.md
+rm README.md script.sh
