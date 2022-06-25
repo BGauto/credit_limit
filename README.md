@@ -8,3 +8,11 @@ Hay que realizar una modificacion el la siguiente línea
 https://github.com/ingadhoc/sale/blob/13.0/sale_exception_credit_limit/models/sale_order.py#L49
 
 hay que modificar ***move_id.type*** por ***move_id.move_type***
+
+\
+\
+:bulb:
+_Para ejecutar el script utilizar el siguiente comando_
+```
+sh ./script.sh
+```
